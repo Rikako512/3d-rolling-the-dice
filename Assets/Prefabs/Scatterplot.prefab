@@ -6444,7 +6444,7 @@ MonoBehaviour:
   renderPointPrefabs: 0
   renderParticles: 0
   renderPrefabsWithColor: 0
-  only1plot: 0
+  only1plot: 1
   column1: 0
   column2: 1
   column3: 2
